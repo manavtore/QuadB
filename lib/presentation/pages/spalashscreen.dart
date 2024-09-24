@@ -34,7 +34,6 @@ class _SplashScreenState extends State<SplashScreen> {
               fit: BoxFit.fitHeight,
             ),
           ),
-          // Centered content
           Center(
             child: Image(
               image: AssetImage('assets/allSaints.jpg'),

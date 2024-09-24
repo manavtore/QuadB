@@ -5,7 +5,7 @@ import 'package:quad/presentation/pages/detailscreen.dart';
 import 'package:quad/presentation/pages/searchscreen.dart';
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  const HomeScreen({super.key});
 
   @override
   State<HomeScreen> createState() => _HomeScreenState();
